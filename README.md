@@ -23,3 +23,11 @@ DAY 1
 | instr.py        | Richie |
 | second_win.py   | Salman |
 | final_win.py    | Abi |
+
+DAY 2
+| File            | Name |
+|-----------------|---------|
+| my_app.py       |  |
+| instr.py        |  |
+| second_win.py   |  |
+| final_win.py    |  |
