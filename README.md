@@ -27,7 +27,7 @@ DAY 1
 DAY 2
 | File            | Name |
 |-----------------|---------|
-| my_app.py       |  |
+| second_winP1.py       |  |
 | instr.py        |  |
-| second_win.py   |  |
+| second_winP2.py   |  |
 | final_win.py    |  |
