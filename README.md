@@ -11,7 +11,7 @@ About : Tes Ruffier membantu pengguna menilai keadaan sistem kardiovaskular tubu
 LINK REPO
 | Name            | Link |
 |-----------------|---------|
-| Zalfa     | |
+| Zalfa     | [Zalfa](https://github.com/zalfah02/pie.git) |
 | Richie       | [Richie](https://github.com/Rciman/REPOsitoryFile.git) |
 | Salman   | [Salman](https://github.com/User-salmanD/code.git) |
 | Abi   | [Abi](https://github.com/Abi-8310/Abi08.git) |
