@@ -21,3 +21,10 @@ class FinalWin(QWidget):
         self.setWindowTitle(txt_finalwin)
         self.resize(win_width, win_height)
         self.move(win_x, win_y)
+
+#tambahkan
+def results(self):
+    if self.exp.age<7:
+        self.index=0
+        return "there is no data for this age"
+    self.index = (4*(int(self.exp.t1) + int(self.exp.t2
