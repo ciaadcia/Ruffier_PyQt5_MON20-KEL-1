@@ -36,3 +36,6 @@ txt_age = 'Full years:'
 txt_finalwin = 'Results'
 txt_index = 'Roufier Index: '
 txt_workheart = 'Cardiac performance: '
+
+
+#instr tambahan
